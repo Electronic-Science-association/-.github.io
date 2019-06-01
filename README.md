@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 宁夏大学电子科协资料站
 
 You can use the [editor on GitHub](https://github.com/Electronic-Science-association/-.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
